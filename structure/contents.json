@@ -1,0 +1,127 @@
+{
+    "language_code": "nl",
+    "english_name": "Dutch",
+    "worksheets": [
+        {
+            "page": "God's_Story_(five_fingers)",
+            "title": "Gods verhaal (vijf vingers)",
+            "filename": "Gods_verhaal_(vijf_vingers).html",
+            "version": "2.1",
+            "pdf": "Gods_verhaal_(vijf_vingers).pdf"
+        },
+        {
+            "page": "God's_Story_(first_and_last_sacrifice)",
+            "title": "Gods verhaal (het eerste en het laatste offer)",
+            "filename": "Gods_verhaal_(het_eerste_en_het_laatste_offer).html",
+            "version": "2.2",
+            "pdf": "Gods_verhaal_(het_eerste_en_het_laatste_offer).pdf"
+        },
+        {
+            "page": "Baptism",
+            "title": "De doop",
+            "filename": "De_doop.html",
+            "version": "2.1",
+            "pdf": "De_doop.pdf"
+        },
+        {
+            "page": "Prayer",
+            "title": "Gebed",
+            "filename": "Gebed.html",
+            "version": "1.1",
+            "pdf": "Gebed.pdf"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Vergeven Stap voor Stap",
+            "filename": "Vergeven_Stap_voor_Stap.html",
+            "version": "1.3",
+            "pdf": "Vergeven_Stap_voor_Stap.pdf"
+        },
+        {
+            "page": "Confessing_Sins_and_Repenting",
+            "title": "Zonden Belijden en Bekering",
+            "filename": "Zonden_Belijden_en_Bekering.html",
+            "version": "1.1",
+            "pdf": "Zonden_Belijden_en_Bekering.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "Tijd met God",
+            "filename": "Tijd_met_God.html",
+            "version": "1.2",
+            "pdf": "Tijd_met_God.pdf"
+        },
+        {
+            "page": "Hearing_from_God",
+            "title": "God horen spreken",
+            "filename": "God_horen_spreken.html",
+            "version": "1.2",
+            "pdf": "God_horen_spreken.pdf"
+        },
+        {
+            "page": "Church",
+            "title": "Kerk",
+            "filename": "Kerk.html",
+            "version": "2.0",
+            "pdf": "Kerk.pdf"
+        },
+        {
+            "page": "My_Story_with_God",
+            "title": "Mijn verhaal met God",
+            "filename": "Mijn_verhaal_met_God.html",
+            "version": "1.1",
+            "pdf": "Mijn_verhaal_met_God.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Bijbel leeswijzer",
+            "filename": "Bijbel_leeswijzer.html",
+            "version": "2.0"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "Bijbel leeswijzer (Zeven verhalen vol van Hoop)",
+            "filename": "Bijbel_leeswijzer_(Zeven_verhalen_vol_van_Hoop).html",
+            "version": "2.0"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "Bijbel leeswijzer (Start met de Schepping)",
+            "filename": "Bijbel_leeswijzer_(Start_met_de_Schepping).html",
+            "version": "2.0"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "Drie delen proces",
+            "filename": "Drie_delen_proces.html",
+            "version": "1.0",
+            "pdf": "Drie_delen_proces.pdf"
+        },
+        {
+            "page": "Training_Meeting_Outline",
+            "title": "Trainingsoverzicht",
+            "filename": "Trainingsoverzicht.html",
+            "version": "1.0",
+            "pdf": "Trainingsoverzicht.pdf"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "Een Dagelijks gebed",
+            "filename": "Een_Dagelijks_gebed.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Overcoming_Fear_and_Anger",
+            "title": "Overwinnen van Angst en Woede",
+            "filename": "Overwinnen_van_Angst_en_Woede.html",
+            "version": "1.0",
+            "pdf": "Overwinnen_van_Angst_en_Woede.pdf"
+        },
+        {
+            "page": "The_Role_of_a_Helper_in_Prayer",
+            "title": "De Rol van een Helper in Gebed",
+            "filename": "De_Rol_van_een_Helper_in_Gebed.html",
+            "version": "1.0"
+        }
+    ]
+}
