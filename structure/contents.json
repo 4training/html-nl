@@ -73,24 +73,6 @@
             "pdf": "Mijn_verhaal_met_God.pdf"
         },
         {
-            "page": "Bible_Reading_Hints",
-            "title": "Bijbel leeswijzer",
-            "filename": "Bijbel_leeswijzer.html",
-            "version": "2.0"
-        },
-        {
-            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
-            "title": "Bijbel leeswijzer (Zeven verhalen vol van Hoop)",
-            "filename": "Bijbel_leeswijzer_(Zeven_verhalen_vol_van_Hoop).html",
-            "version": "2.0"
-        },
-        {
-            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
-            "title": "Bijbel leeswijzer (Start met de Schepping)",
-            "filename": "Bijbel_leeswijzer_(Start_met_de_Schepping).html",
-            "version": "2.0"
-        },
-        {
             "page": "The_Three-Thirds_Process",
             "title": "Drie delen proces",
             "filename": "Drie_delen_proces.html",
@@ -105,23 +87,11 @@
             "pdf": "Trainingsoverzicht.pdf"
         },
         {
-            "page": "A_Daily_Prayer",
-            "title": "Een Dagelijks gebed",
-            "filename": "Een_Dagelijks_gebed.html",
-            "version": "1.0"
-        },
-        {
             "page": "Overcoming_Fear_and_Anger",
             "title": "Overwinnen van Angst en Woede",
             "filename": "Overwinnen_van_Angst_en_Woede.html",
             "version": "1.0",
             "pdf": "Overwinnen_van_Angst_en_Woede.pdf"
-        },
-        {
-            "page": "The_Role_of_a_Helper_in_Prayer",
-            "title": "De Rol van een Helper in Gebed",
-            "filename": "De_Rol_van_een_Helper_in_Gebed.html",
-            "version": "1.0"
         }
     ]
 }
